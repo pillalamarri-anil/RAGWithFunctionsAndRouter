@@ -1,0 +1,21 @@
+{
+  "chunk_count": 887,
+  "embed_dim": 768,
+  "embed_model": "embeddinggemma:latest",
+  "chat_model": "llama3.1:8b",
+  "chunking": {
+    "words_per_chunk": 300,
+    "overlap_words": 60
+  },
+  "books_indexed": [
+    "moby-dick"
+  ],
+  "docs": [
+    {
+      "title": "Moby-Dick",
+      "doc_id": "moby-dick",
+      "url": "https://www.gutenberg.org/files/2701/2701-0.txt",
+      "n_chunks": 887
+    }
+  ]
+}
